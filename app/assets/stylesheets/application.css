@@ -9,12 +9,11 @@
  * Consider organizing styles into separate files for maintainability.
  */
 body{
+/*	display: flex;
+	justify-content: center;*/
 
-
-}
-
-
-
+	margin-top: 10%;
+	margin-left: 35%;
 .form-input{
 
 display: flex;
