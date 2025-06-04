@@ -17,5 +17,5 @@ Rails.application.routes.draw do
   # root "posts#index"
 
   root "pages#home"
-  get 'about' ,to:'pages#about'
+  get "about", to: "pages#about"
 end
